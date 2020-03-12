@@ -6,7 +6,7 @@ terraform is one of the big players used in IAAS (Infrastructure As A Service) d
 
 
 
-Terraform is
+#Terraform is
 
 Declarative - which means you define the resources/parameters, it has it's own way of doing things setup and running
 
@@ -15,7 +15,7 @@ Idempotent- which means terraform doesn't change current state, if there are no 
 Push mechanism - The changes or configuration needs to be pushed to take effect
 
 
-IAAS benifits
+#IAAS benifits
 
 Automated deployment
 

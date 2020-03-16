@@ -27,11 +27,19 @@ Reusable components
 Documented Architecture
 
 ######################################################################
+
 Terraform components
 1. terraform executable
 2. terraform files
 3. terraform plugins
 4. terraform state
+
+######################################################################
+Terraform constructs
+
+1.Providers.  -- eg: AWS
+2.Resources  -- eg: EC2,S3 etc..
+3.provisioners -- on the top packages
 
 
 
